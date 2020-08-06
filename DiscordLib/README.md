@@ -6,3 +6,4 @@ DiscordLib is a external Library for UltraStaffChatPro.
  * Permission is not granted for this to be used in any program other than UltraStaffChatPro.
  * https://www.hypera.dev
 ```
+PERMISSION IS ***NOT*** GRANTED TO ANYONE OTHER THAN JOSHUA SING AND MYLES NEWTON TO DECOMPILE DISCORDLIB
